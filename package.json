@@ -1,0 +1,17 @@
+{
+  "name": "overment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "quokka": {
+    "babel": true
+  },
+  babel: {
+    presets: ["latest"]
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
